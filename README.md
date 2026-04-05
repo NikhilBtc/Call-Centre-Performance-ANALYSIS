@@ -33,5 +33,5 @@ This project provides valuable insights into call center operations, helping to 
 
 
 
-Name: Devanshi Jignesh Bhatt
-Email: devanshijbhatt@gmail.com
+Name: M NIKHIL KISHORE
+Email: nikhilkishore4220@gmail.com
