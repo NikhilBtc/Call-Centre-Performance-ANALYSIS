@@ -2,6 +2,7 @@
 # Call-Center-Performance-Analytics
 # Overview of the Repository
 This repository consists of the dataset file, PowerBI Dashboard file and the Presentation file which is a demo for performing the data reporting which can be done in front of thw Stakeholders or your hierarchy Manager.
+<img width="1717" height="855" alt="image" src="https://github.com/user-attachments/assets/9c6877cc-4217-4508-8955-0febecec8630" />
 
 # Project Overview 
 This project analyzes and reports key metrics and insights from a call center performance dashboard. The dashboard provides a comprehensive view of call center operations, including response times, satisfaction scores, call volumes, agent performance, and topic distribution.
